@@ -27,6 +27,7 @@ namespace netcoreConsole
 
             try
             {
+                Console.WriteLine("Hi world!");
                 for (int i = 0; i < ints.Length; i++)
                 {
                     Console.WriteLine(ints[i].ToString());
