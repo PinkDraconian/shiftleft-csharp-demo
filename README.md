@@ -69,7 +69,6 @@ In a browser you can see the app at http://localhost/netfwWebapi
  
 
 ## Sensitive Data Leaks in netcoreWebapi
-
 | URL | Purpose |
 | --- | ------- |
 | http://localhost:8942/api/customers/4343 | Returns JSON representation of Customer resource based on Id (4343) specified in URL |
