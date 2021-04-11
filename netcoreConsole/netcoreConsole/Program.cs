@@ -21,6 +21,7 @@ namespace netcoreConsole
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello there!");
             const string EX_MESSAGE = "Got an exception";
 
             int[] ints = new int[] { 1, 2, 3, 5, 6, 7, 10, 12, 15 };
