@@ -74,10 +74,3 @@ In a browser you can see the app at http://localhost/netfwWebapi
 | --- | ------- |
 | http://localhost:8942/api/customers/4343 | Returns JSON representation of Customer resource based on Id (4343) specified in URL |
 | http://localhost:8942/api/customers   | Returns JSON representation of all available Customer resources |
-
-
-
-
-
-
-
